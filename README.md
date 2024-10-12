@@ -12,6 +12,7 @@ You have a chance to hear from people who are not just talking about, but buildi
 
 ---
 ## More Info
+
 - [The Future in Tech Page](https://go.raybo.org/tfit)
 - [Episode Guide](https://go.raybo.org/tfit-episodes)
 - [YouTube Playlist](https://go.raybo.org/tfit-youtube)
